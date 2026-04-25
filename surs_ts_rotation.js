@@ -9,9 +9,9 @@
     // Configuration    
     var config = {    
         servers: [    
-            {url: 'https://45.144.53.25:37940', title: 'server 1', available: false},    
-            {url: 'https://192.168.1.100:8090', title: 'server 2', available: false},    
-            {url: 'https://91.184.248.36:8090', title: 'server 3', available: false}    
+            {url: 'https://45.144.53.25:37940', https://45.144.53.25:37940, available: false},    
+            {url: 'https://192.168.1.100:8090', https://192.168.1.100:8090 , available: false},    
+            {url: 'https://91.184.248.36:8090', https://91.184.248.36:8090, available: false}    
         ],    
         checkTimeout: 10000,    
         enableLogging: true,    
